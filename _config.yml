@@ -1,11 +1,11 @@
-title: Hexo
-subtitle: "A fast, simple & powerful blog framework powered by Node.js."
-description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Hexo
-language: en
-timezone: UTC
+title: Theme Handbook
+subtitle: "Resource for learning all about the exciting world of WordPress themes。"
+description: "Resource for learning all about the exciting world of WordPress themes。"
+author: 老零
+language: zh-cn
+timezone: Asia/Shanghai
 
-url: https://hexo.io
+url: http://theme.n369.top
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
@@ -14,7 +14,7 @@ new_post_name: :year-:month-:day-:title.md # File name of new posts
 post_asset_folder: true
 per_page: 0
 
-theme: navy
+theme: maupassant
 deploy:
   type: git
   repo: git@github.com:hexojs/hexojs.github.io.git
